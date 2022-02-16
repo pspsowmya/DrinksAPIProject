@@ -2,7 +2,7 @@
 
 This project is to create an API that provides the details of different drinks like Tea, Coffee etc. 
 
-The main folder has a package called controller which has the the clases to manage the requests f=related to Drinks API 
+The main folder has a package called controller which has the the clases to manage the requests related to Drinks API 
 
 The test package has test classes of corresponding controllers 
 
